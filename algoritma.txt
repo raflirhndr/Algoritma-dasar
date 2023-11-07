@@ -1,0 +1,14 @@
+1.mulai dari bagian registrasi
+1.1bagian registrasi mencatat pesanan cetak poster
+1.2pesanan masuk ke sistem antrean
+2.beralih kebagian operator
+2.1 pesanan masuk dan dicek oprator
+2.2 design dikirim ke mesin cetak
+2.3 mesin cetak melakukan persiapan cetak
+2.4 proses cetak berjalan
+2.5 oprator mengecek apakah terjadi kendala di tengah jalan
+2.6 proses cetak menunggu untuk diambil
+2.8 hasil cetakan diambil dan di bawa ke meja kasir
+3.pindah ke bagian kasir
+3.1pelanggan membayar biaya cetak
+4.proses order cetak poster selesai
